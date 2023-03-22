@@ -1,0 +1,11 @@
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\bin\Debug\Perevodchik_2.0.exe.config
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\bin\Debug\Perevodchik_2.0.exe
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\bin\Debug\Perevodchik_2.0.pdb
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\obj\Debug\Perevodchik_2.0.csproj.AssemblyReference.cache
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\obj\Debug\Perevodchik_2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\obj\Debug\Perevodchik_2._0.Form1.resources
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\obj\Debug\Perevodchik_2._0.Properties.Resources.resources
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\obj\Debug\Perevodchik_2.0.csproj.GenerateResource.cache
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\obj\Debug\Perevodchik_2.0.csproj.CoreCompileInputs.cache
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\obj\Debug\Perevodchik_2.0.exe
+C:\Users\shara\source\repos\Perevodchik_2.0\Perevodchik_2.0\obj\Debug\Perevodchik_2.0.pdb
