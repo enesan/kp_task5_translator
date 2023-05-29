@@ -1,0 +1,11 @@
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\obj\Debug\kp_task6.csproj.AssemblyReference.cache
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\obj\Debug\kp_task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\obj\Debug\kp_task6.Properties.Resources.resources
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\obj\Debug\kp_task6.csproj.GenerateResource.cache
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\obj\Debug\kp_task6.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\bin\Debug\kp_task6.exe.config
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\bin\Debug\kp_task6.exe
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\bin\Debug\kp_task6.pdb
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\obj\Debug\kp_task6.Form1.resources
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\obj\Debug\kp_task6.exe
+C:\Users\Grisha\source\repos\kp_task6\kp_task6\obj\Debug\kp_task6.pdb
